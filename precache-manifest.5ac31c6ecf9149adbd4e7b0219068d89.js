@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "747070b3fe42a12362fe378283507f1b",
+    "revision": "bdde92caada3f97f3e8e056a1c24e13f",
     "url": "/TechSalaries/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TechSalaries/static/css/2.22a7d4ef.chunk.css"
   },
   {
-    "revision": "11dc4b27af62fb8a2b16",
+    "revision": "ed5e97b0b72fa31f1d26",
     "url": "/TechSalaries/static/css/main.ce7b9a27.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TechSalaries/static/js/2.4b7b28db.chunk.js"
   },
   {
-    "revision": "11dc4b27af62fb8a2b16",
-    "url": "/TechSalaries/static/js/main.908bcf60.chunk.js"
+    "revision": "ed5e97b0b72fa31f1d26",
+    "url": "/TechSalaries/static/js/main.978ec15e.chunk.js"
   },
   {
     "revision": "33f4afdcc91e46184e1d",
