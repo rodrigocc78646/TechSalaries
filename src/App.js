@@ -97,7 +97,7 @@ class App extends Component {
             width={500}
             height={500}
             zoom={zoom} />
-          <rect x="500" y="0" width="600" heigth="500" style={{ fill: 'white' }} />
+          <rect x="500" y="0" width="600" height="500" style={{ fill: 'white', fillOpacity:1}} />
           <Histogram bins={10}
             width={500}
             height={500}
